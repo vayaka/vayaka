@@ -10,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/647b02bf40cee644b2828834?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/68a4cdc5d85a4942bc00a4a1?variant=dark)](https://roadmap.sh)
 - 👯 I’m looking to collaborate on freelance
 - 🤔 I’m looking for help with find ideas to projects
 - 📫 How to reach me: korotivan2005@gmail.com
